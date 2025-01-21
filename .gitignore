@@ -1,3 +1,10 @@
+#custom ignore
+pyvenv.cfg
+local.py
+/bin
+/lib64
+/include
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
