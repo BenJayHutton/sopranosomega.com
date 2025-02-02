@@ -4,6 +4,7 @@ local.py
 /bin
 /lib64
 /include
+production.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
