@@ -103,7 +103,7 @@ STATIC_URL = 'static/'
 MEDIA_URL = 'media/'
 
 STATICFILES_DIRS = [
-    BASE_DIR.parent / 'static'
+    
 ]
 
 # Default primary key field type
