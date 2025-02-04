@@ -6,7 +6,7 @@ load_dotenv()
 
 
 # Project settings
-ALLOWED_HOSTS=['.sopranosomega.com']
+ALLOWED_HOSTS=['127.0.0.1','.sopranosomega.com']
 DATABASE_URL = os.environ.get("DATABASE_URL", None)
 DEBUG = False
 DISABLE_COLLECTSTATIC = 1
